@@ -72,6 +72,7 @@ Start and enable service:
 sudo systemctl start flaskapp
 sudo systemctl enable flaskapp
 sudo systemctl status flaskapp
+sudo systemctl restart flaskapp
 ```
 
 # 5. Frontend Setup (React)
