@@ -13,9 +13,9 @@ apt update && apt upgrade -y
 # Python and pip
 apt install python3 python3-pip python3-venv -y
 
-# Node.js and npm
+# Node.js 
 curl -fsSL https://deb.nodesource.com/setup_18.x | bash -
-apt install -y nodejs npm
+apt install -y nodejs 
 
 # Nginx and tools
 apt install nginx git build-essential -y
