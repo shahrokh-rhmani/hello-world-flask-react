@@ -25,6 +25,7 @@ apt install nginx git build-essential -y
 
 ```
 git clone https://github.com/your-username/hello-world-app.git
+mv hello-world-flask-react hello-world-app
 cd hello-world-app
 ```
 
