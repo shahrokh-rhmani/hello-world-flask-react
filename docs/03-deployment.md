@@ -151,14 +151,6 @@ Expected output:
 {"message":"Hello from Flask!"}
 ```
 
-Create requirements.txt (if needed):
-
-```
-echo "flask==2.3.3
-werkzeug==2.3.7
-flask-cors==4.0.0
-gunicorn==23.0.0" > /root/hello-world-app/backend/requirements.txt
-```
 
 
 
